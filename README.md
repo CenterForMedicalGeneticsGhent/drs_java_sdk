@@ -50,7 +50,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "io.swagger:swagger-java-client:1.0.0"
+implementation "com.github.CenterForMedicalGeneticsGhent:drs_java_sdk:1.0.0"
 ```
 
 ### Others
